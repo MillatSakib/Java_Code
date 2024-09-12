@@ -19,5 +19,8 @@ public class DataTypes {
         System.out.println("Inter a string: ");
         name = input.next();
         System.out.println("Integer "+a+" Float "+b+" Char "+c+" Name "+name);
+        //type conversion
+        int y = 5;
+        System.out.println((float)y);
     }
 }
