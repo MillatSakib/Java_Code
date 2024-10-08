@@ -28,3 +28,11 @@ package OOP;
 
 
 
+/**
+ * Restriction of static method
+ * Static method can't use non static member.
+ * "this" and "super" keyword can't be used here.
+ * 
+ * Why we make the main method as static?
+ * We make the main method as static because if we make a static method inside a class then we can call that function without making the object of that class. We can access the method through the class. As the main method we are not make the the object of that class. Compiler directly call that method. That's why we make the main method as static.
+ */
