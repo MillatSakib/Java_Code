@@ -1,4 +1,4 @@
-package javaapplication6.General.Array;
+package Java.General.Array;
 import java.util.Vector;
 
 public class Array{

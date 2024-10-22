@@ -1,3 +1,4 @@
+package Java.General.Condition;
 import java.util.Scanner;
 
 public class IfElse {

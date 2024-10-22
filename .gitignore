@@ -4,3 +4,4 @@ Desktop.iml
 out
 General.iml
 *.class
+/dist/

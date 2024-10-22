@@ -1,3 +1,4 @@
+package Java.General.Loop;
 public class While {
     public static void main(String[] args) {
         int i = 1;  // Initialize counter
