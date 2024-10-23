@@ -10,11 +10,11 @@ public class Array{
 
         int [][] MulArray = new int [2][3];
         MulArray[0][0] = 0;
-        MulArray[0][1] = 0;
-        MulArray[0][2] = 0;
-        MulArray[1][0] = 0;
-        MulArray[1][1] = 0;
-        MulArray[1][2] = 0;
+        MulArray[0][1] = 1;
+        MulArray[0][2] = 2;
+        MulArray[1][0] = 3;
+        MulArray[1][1] = 4;
+        MulArray[1][2] = 5;
 
         for(int x : Arr){   //Usage of for each loop
             System.out.println(x);
