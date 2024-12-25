@@ -5,3 +5,4 @@ out
 General.iml
 *.class
 /dist/
+*.rs
