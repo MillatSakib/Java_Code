@@ -18,9 +18,9 @@ public class ThreadShutDown {
 }
 
 
-class Watch implements Runnable{
+class Watch1 implements Runnable{
     private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:s a");
-    private boolean running = true;
+    private volatile boolean running = true;
     
     @Override
     public void run(){
@@ -50,7 +50,7 @@ class Watch implements Runnable{
     }
     
     public static void main(String[] args) throws InterruptedException{
-    Watch watch = new Watch();
+    Watch1 watch = new Watch1();
     Thread t1 = new Thread(watch);
     t1.start();
     Thread.sleep(5000);
