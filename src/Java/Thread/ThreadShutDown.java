@@ -20,7 +20,7 @@ public class ThreadShutDown {
 
 class Watch1 implements Runnable{
     private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:s a");
-    private volatile boolean running = true;
+    private volatile boolean running = true;    //volatile keyword use to ensure the running variable are alawys contains on ram. It don't go to CPU cash never.
     
     @Override
     public void run(){
