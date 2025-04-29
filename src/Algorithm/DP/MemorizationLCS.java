@@ -13,7 +13,7 @@ public class MemorizationLCS {
         int[][] memo = new int[m+1][n+1];
         for(int i=0;i<m+1;i++){
         for(int j=0;j<n+1; j++){
-            memo[i][j]=-1;  //array initailization with -1
+            memo[i][j]=-1;
         }
         }
         if(memo[m][n] != -1){
