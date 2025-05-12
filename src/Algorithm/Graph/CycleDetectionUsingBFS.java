@@ -10,7 +10,7 @@ import java.util.*;
  */
 
  
-public class CycleDetectionUsingDFS { 
+public class CycleDetectionUsingBFS { 
  
     public static void main(String[] args) { 
         Scanner sc = new Scanner(System.in); 
@@ -77,6 +77,7 @@ Sample Input:
 1 3
 2 3
 3 4
+0
 
 Sample Output:
 Cycle Detected in the graph
