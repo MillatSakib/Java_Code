@@ -5,6 +5,14 @@
         <group>
             <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/CycleDetectionUsingBFS.java</file>
             <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/GraphTraversalUaingBFS.java</file>
+            <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/KruskalMST.java</file>
+            <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/PrimsMST.java</file>
+            <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/BFSGeekForGeeks.java</file>
+            <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/BFSLevelSimple.java</file>
+            <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/BFSLevelAdjacencyMatrix.java</file>
+            <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/DFSPathFinder.java</file>
+            <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/DFS.java</file>
+            <file>file:/C:/Users/Sakib/Downloads/jjj/Java_Code/src/Algorithm/Graph/ToplogicalSortDFS.java</file>
         </group>
     </open-files>
 </project-private>
